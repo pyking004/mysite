@@ -3,3 +3,11 @@ header{
     background-color: aqua;
     color: red;
 }
+footer{
+    text-align: center;
+    background-color: grey;
+    color: bisque;
+    position: fixed;
+    bottom: 1%;
+    width: 100%;
+}
