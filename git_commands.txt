@@ -11,3 +11,8 @@ git commit -m "commit message"
 
 # to commit all tracked files
 git commit -am "commit message"
+
+git log
+git log --oneline
+git branch <branchname>
+git checkout <targetBrach>
