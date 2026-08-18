@@ -16,3 +16,10 @@ git log
 git log --oneline
 git branch <branchname>
 git checkout <targetBrach>
+git branch -b <branchName>
+
+another way to switching to branch
+====================================
+git switch <branchname>
+git switch -c <NewBrachName>
+git branch -d <branchName>
