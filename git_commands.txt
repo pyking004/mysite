@@ -1,0 +1,13 @@
+git init
+git clone
+git status
+git config --global user.name "username"
+git config --global user.email "useremail"
+git config --list
+
+git add "filename"
+git add .
+git commit -m "commit message"
+
+# to commit all tracked files
+git commit -am "commit message"
